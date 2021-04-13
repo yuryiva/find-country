@@ -1,7 +1,6 @@
 import React from "react";
 import { BlackBox } from "./styling";
 import { Card } from "antd";
-import { v4 as uuid_v4 } from "uuid";
 
 const ErrorCard = ({ close, errorMessage }) => {
   return (
