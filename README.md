@@ -39,3 +39,5 @@ The main technologies and tools used to build the Carousel are the following:
 - React create-react-app
 - Styled Components, Hooks
 - Ant Design Components
+
+<a href="https://find-a-country.netlify.app" target="_blank">Live presentation</a>
