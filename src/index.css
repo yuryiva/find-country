@@ -18,7 +18,6 @@
   }
   
   .lds-spinner {
-    /* margin-top: 300px !important; */
     z-index: 10;
     color: official;
     display: inline-block;
